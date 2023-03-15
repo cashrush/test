@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.97bbc603.chunk.css",
-    "main.js": "/static/js/main.9651852a.chunk.js",
-    "main.js.map": "/static/js/main.9651852a.chunk.js.map",
+    "main.js": "/static/js/main.1e656cc9.chunk.js",
+    "main.js.map": "/static/js/main.1e656cc9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bba0573b.js",
     "runtime-main.js.map": "/static/js/runtime-main.bba0573b.js.map",
     "static/css/2.43b9ddca.chunk.css": "/static/css/2.43b9ddca.chunk.css",
@@ -19,7 +19,7 @@
     "static/css/main.97bbc603.chunk.css.map": "/static/css/main.97bbc603.chunk.css.map",
     "static/js/2.d670d109.chunk.js.LICENSE.txt": "/static/js/2.d670d109.chunk.js.LICENSE.txt",
     "static/js/3.9199957a.chunk.js.LICENSE.txt": "/static/js/3.9199957a.chunk.js.LICENSE.txt",
-    "static/js/main.9651852a.chunk.js.LICENSE.txt": "/static/js/main.9651852a.chunk.js.LICENSE.txt",
+    "static/js/main.1e656cc9.chunk.js.LICENSE.txt": "/static/js/main.1e656cc9.chunk.js.LICENSE.txt",
     "static/media/bebasneue.css": "/static/media/bebasneuethin.c340c31e.woff",
     "static/media/semantic.min.css": "/static/media/outline-icons.ddae9b1b.woff",
     "static/media/TermsPage.scoped.scss?scopeId=fd57e193": "/static/media/home.107ee732.jpg",
@@ -32,6 +32,6 @@
     "static/css/2.43b9ddca.chunk.css",
     "static/js/2.d670d109.chunk.js",
     "static/css/main.97bbc603.chunk.css",
-    "static/js/main.9651852a.chunk.js"
+    "static/js/main.1e656cc9.chunk.js"
   ]
 }
